@@ -28,9 +28,3 @@ Buscando oportunidades como desenvolvedor para aplicar minha experiência práti
 > *"Always curious about how things work under the hood."*
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-![Status do Rodrigo](https://github-readme-stats.vercel.app/api?username=r-otavio-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=r-otavio-dev&layout=compact&theme=radical&hide=html,css)
