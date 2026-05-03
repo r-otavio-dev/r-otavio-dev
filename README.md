@@ -1,6 +1,6 @@
 # 🚀 Olá, eu sou o Rodrigo Otavio!
 
-Sou estudante de **Engenharia de Software** na **Universidade Positivo (UP)**. Trago uma base técnica da graduação em **Engenharia da Computação (cursada em 2025)** e atualmente atuo no setor de **PCP** na Plásticos do Paraná.
+Sou estudante de **Engenharia de Software** na **Universidade Positivo (UP)**. Possuo uma base técnica iniciada com **um ano de graduação em Engenharia da Computação (2025)** e atualmente atuo no setor de **PCP** na Plásticos do Paraná.
 
 ### 💻 Desenvolvimento & Backend
 Focado na construção de aplicações eficientes e seguras:
@@ -10,12 +10,12 @@ Focado na construção de aplicações eficientes e seguras:
 *   **Ferramentas:** Git, GitHub, VS Code e Cursor IDE.
 
 ### 🛡️ Cybersecurity & Red Teaming
-Focado em entender o sistema de ponta a ponta:
+Interesse em entender sistemas e infraestrutura:
 *   Estudo de fundamentos de **Segurança Ofensiva** e análise de vulnerabilidades.
-*   Interesse em **Red Teaming** e ferramentas de rede.
+*   Foco em **Red Teaming** e segurança desde a escrita do código.
 
 ### 🔧 Projetos & Hardware
-Unindo minha base de Computação com o Desenvolvimento de Software:
+Unindo lógica de software com eletrônica:
 *   **LED Mask Project:** Integração software/hardware com expressões programáveis (Watch Dogs 2 style).
 *   **Custom Gear:** Entusiasta de hardware e teclados mecânicos (MonsGeek HE 60).
 
@@ -26,5 +26,3 @@ Buscando oportunidades como desenvolvedor para aplicar minha experiência práti
 
 > `[SYSTEM STATUS: CODING]`  
 > *"Always curious about how things work under the hood."*
-
----
