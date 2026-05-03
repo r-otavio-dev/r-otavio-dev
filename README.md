@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🚀 Olá, eu sou o Rodrigo Otavio!
 
-<!--
-**r-otavio-dev/r-otavio-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software** na **Universidade Positivo (UP)**. Trago uma base técnica da graduação em **Engenharia da Computação (cursada em 2025)** e atualmente atuo no setor de **PCP** na Plásticos do Paraná.
 
-Here are some ideas to get you started:
+### 💻 Desenvolvimento & Backend
+Focado na construção de aplicações eficientes e seguras:
+*   **Linguagens:** Java, Python e JavaScript (HTML/CSS).
+*   **Banco de Dados:** Estudando fundamentos de SQL e organização de dados.
+*   **Fundamentos:** Estrutura de Dados, Lógica e Desenvolvimento de Sistemas.
+*   **Ferramentas:** Git, GitHub, VS Code e Cursor IDE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Cybersecurity & Red Teaming
+Focado em entender o sistema de ponta a ponta:
+*   Estudo de fundamentos de **Segurança Ofensiva** e análise de vulnerabilidades.
+*   Interesse em **Red Teaming** e ferramentas de rede.
+
+### 🔧 Projetos & Hardware
+Unindo minha base de Computação com o Desenvolvimento de Software:
+*   **LED Mask Project:** Integração software/hardware com expressões programáveis (Watch Dogs 2 style).
+*   **Custom Gear:** Entusiasta de hardware e teclados mecânicos (MonsGeek HE 60).
+
+---
+
+### 🎯 Objetivo Profissional
+Buscando oportunidades como desenvolvedor para aplicar minha experiência prática e acadêmica em soluções reais de mercado.
+
+> `[SYSTEM STATUS: CODING]`  
+> *"Always curious about how things work under the hood."*
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Status do Rodrigo](https://github-readme-stats.vercel.app/api?username=r-otavio-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=r-otavio-dev&layout=compact&theme=radical&hide=html,css)
