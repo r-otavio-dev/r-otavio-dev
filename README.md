@@ -25,7 +25,7 @@ Também atuo como Jovem Aprendiz na Plásticos do Paraná, com vivência em PCP,
 
 - Atuando remotamente na FlyRank AI desde julho de 2026.
 - Aprofundando conhecimentos em APIs, IA aplicada, arquitetura backend, testes e DevOps.
-- Cursando Engenharia de Software, com conclusão prevista para dezembro de 2030.
+- Cursando Engenharia de Software, com conclusão prevista para dezembro de 2029.
 
 ## Contato
 
