@@ -1,34 +1,36 @@
-# Olá, eu sou o Rodrigo Otavio 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=29&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=SYSTEM+BOOTING...;BACKEND+%26+AI+ENGINEER;PYTHON+%7C+DJANGO+%7C+FASTAPI;APIs+%7C+DATABASES+%7C+AUTOMATION;BUILDING+USEFUL+SYSTEMS..." alt="Typing animation introducing Rodrigo Otavio" />
+</p>
 
-Estudante de **Engenharia de Software** na Universidade Positivo e estagiário de **Backend & AI Engineering na FlyRank AI**. Desenvolvo APIs e aplicações com foco em código limpo, segurança, testes automatizados e entrega contínua.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-otavio-silvestre-filho/">
+    <img src="./assets/profile-banner.svg" alt="Rodrigo Otavio — Backend and AI Engineering" width="900" />
+  </a>
+</p>
 
-Também atuo como Jovem Aprendiz na Plásticos do Paraná, com vivência em PCP, processos industriais, sistemas ERP e suporte prático de TI.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=E9D5FF&center=true&vCenter=true&width=700&lines=Tools+and+Technologies%3A;Core+Skills%3A" alt="Tools and technologies" />
+</p>
 
-## Tecnologias
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,supabase,docker,git,github,linux,aws,ts,js,react,nextjs,flutter,vscode&perline=9" alt="Python, Django, FastAPI, Flask, PostgreSQL, Supabase, Docker, Git, GitHub, Linux, AWS, TypeScript, JavaScript, React, Next.js, Flutter and VS Code" />
+  </a>
+</p>
 
-- **Backend:** Python · FastAPI · Flask · Django REST Framework
-- **Dados:** PostgreSQL · SQLite · SQL · Supabase
-- **Frontend:** TypeScript · JavaScript · React · Next.js · Flutter
-- **Qualidade e entrega:** Pytest · Docker · GitHub Actions · CI/CD · AWS
-- **Ferramentas:** Git · Linux · Playwright · n8n · REST APIs
+<h3 align="center">
+  🔗 <b>Connect with me:</b>
+  <br><br>
+  <a href="https://www.linkedin.com/in/rodrigo-otavio-silvestre-filho/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rodrigo_Otavio-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/r-otavio-dev">
+    <img src="https://img.shields.io/badge/GitHub-r--otavio--dev-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</h3>
 
-## Projetos em destaque
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6D28D9,50:A855F7,100:EC4899&section=footer&animation=fadeIn" width="100%" alt="Purple wave footer" />
 
-- [Lacrei Health API](https://github.com/r-otavio-dev/lacrei-health-api) — API REST segura com Django REST Framework, PostgreSQL, Docker, CI/CD e infraestrutura AWS com Terraform.
-- [Conecta Jovem](https://github.com/r-otavio-dev/conecta-jovem) — PWA em Next.js, TypeScript e Supabase para jornadas de impacto, missões e portfólios de jovens.
-- [Task API](https://github.com/r-otavio-dev/task-api) — CRUD REST com FastAPI, SQLite, validação, persistência e testes automatizados.
-- [ERP Big Bags Demo](https://github.com/r-otavio-dev/erp-big-bags-demo) — prova de conceito local em Flask e Playwright para automação auditável de processos.
-- [SecGuard CLI](https://github.com/r-otavio-dev/secguard-cli) — ferramenta em TypeScript para identificar arquivos potencialmente sensíveis em diretórios locais.
-- [Preço Médio de Ações](https://github.com/r-otavio-dev/preco-medio-acoes) — aplicativo Flutter para simular o preço médio de uma posição em ações.
-
-## Atualmente
-
-- Atuando remotamente na FlyRank AI desde julho de 2026.
-- Aprofundando conhecimentos em APIs, IA aplicada, arquitetura backend, testes e DevOps.
-- Cursando Engenharia de Software, com conclusão prevista para dezembro de 2029.
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/rodrigo-otavio-silvestre-filho/) · [GitHub](https://github.com/r-otavio-dev)
-
-> Construindo soluções úteis, seguras e bem documentadas — uma entrega por vez.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=E9D5FF&center=true&vCenter=true&width=700&lines=Check+out+my+projects%3A;Follow+my+journey%3A" alt="Check out my projects and follow my journey" />
+</p>
