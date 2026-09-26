@@ -1,26 +1,36 @@
-# Rodrigo Otávio
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=29&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=SYSTEM+BOOTING...;BACKEND+%26+AI+ENGINEER;PYTHON+%7C+DJANGO+%7C+FASTAPI;APIs+%7C+DATABASES+%7C+AUTOMATION;BUILDING+USEFUL+SYSTEMS..." alt="Typing animation introducing Rodrigo Otavio" />
+</p>
 
-Estudante do 2º período de Engenharia de Software na Universidade Positivo, com foco atual em fortalecer a base de programação com Python. Busco estágio em desenvolvimento, preferencialmente backend, e também considero oportunidades de TI que ofereçam caminho para desenvolvimento.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-otavio-silvestre-filho/">
+    <img src="./assets/profile-banner.svg" alt="Rodrigo Otavio — Backend and AI Engineering" width="900" />
+  </a>
+</p>
 
-Minha experiência profissional combina rotina corporativa, processos industriais e contato prático com tecnologia. Como Jovem Aprendiz na Plásticos do Paraná, acompanho atividades de Produção e PCP e apoio demandas de TI envolvendo estações Windows, rede, domínio, impressoras e sistemas internos como TOTVS Protheus e WMC.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=E9D5FF&center=true&vCenter=true&width=700&lines=Tools+and+Technologies%3A;Core+Skills%3A" alt="Tools and technologies" />
+</p>
 
-## O que estou praticando
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,supabase,docker,git,github,linux,aws,ts,js,react,nextjs,flutter,vscode&perline=9" alt="Python, Django, FastAPI, Flask, PostgreSQL, Supabase, Docker, Git, GitHub, Linux, AWS, TypeScript, JavaScript, React, Next.js, Flutter and VS Code" />
+  </a>
+</p>
 
-- Python: lógica, funções, estruturas de dados, validação e organização de código;
-- APIs: conceitos de HTTP e CRUD em projetos de estudo com FastAPI e Django REST Framework;
-- Dados: SQL e SQLite em exercícios e aplicações locais;
-- Git e GitHub: fluxo básico de versionamento;
-- Web: fundamentos de HTML, CSS e JavaScript;
-- Automação: contato com n8n e scripts em Python.
+<h3 align="center">
+  🔗 <b>Connect with me:</b>
+  <br><br>
+  <a href="https://www.linkedin.com/in/rodrigo-otavio-silvestre-filho/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rodrigo_Otavio-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/r-otavio-dev">
+    <img src="https://img.shields.io/badge/GitHub-r--otavio--dev-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</h3>
 
-## Projetos para acompanhar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6D28D9,50:A855F7,100:EC4899&section=footer&animation=fadeIn" width="100%" alt="Purple wave footer" />
 
-- [Task API](https://github.com/r-otavio-dev/task-api): CRUD de tarefas com Python, FastAPI e SQLite, desenvolvido em etapas para estudar API, validação, persistência e testes.
-- [ERP Big Bags Demo](https://github.com/r-otavio-dev/erp-big-bags-demo): prova de conceito local e fictícia que conecta um processo industrial a Python, Flask, SQLite e automação de navegador.
-- [Jogo de Adivinhação](https://github.com/r-otavio-dev/Jogo-de-Adivinha-o-python): projeto simples de terminal usado para praticar fundamentos de Python e registrar minha evolução.
-
-## Transparência sobre o aprendizado
-
-Parte dos projetos mais complexos foi construída com bastante apoio de ferramentas de IA. Estou revisando esses repositórios para entender cada decisão e transformar código gerado com ajuda em conhecimento que eu consiga explicar, testar e modificar sozinho.
-
-Contato: [LinkedIn](https://www.linkedin.com/in/rodrigo-otavio-silvestre-filho/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=E9D5FF&center=true&vCenter=true&width=700&lines=Check+out+my+projects%3A;Follow+my+journey%3A" alt="Check out my projects and follow my journey" />
+</p>
