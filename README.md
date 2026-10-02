@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=29&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=SYSTEM+BOOTING...;BACKEND+%26+AI+ENGINEER;PYTHON+%7C+DJANGO+%7C+FASTAPI;APIs+%7C+DATABASES+%7C+AUTOMATION;BUILDING+USEFUL+SYSTEMS..." alt="Typing animation introducing Rodrigo Otavio" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=29&duration=2500&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=SYSTEM+BOOTING...;BACKEND+%26+AI+ENGINEER;PYTHON+%7C+DJANGO+%7C+POSTGRESQL;APIs+%7C+DATABASES+%7C+AUTOMATION;BUILDING+USEFUL+SYSTEMS..." alt="Typing animation introducing Rodrigo Otavio" />
 </p>
 
 <p align="center">
@@ -8,13 +8,26 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=2500&pause=5000&color=E9D5FF&center=true&vCenter=true&width=700&lines=Tools+and+Technologies%3A;Core+Skills%3A" alt="Tools and technologies" />
-</p>
+<h2 align="center">🛠️ Tech Stack</h2>
 
+<h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,supabase,docker,git,github,linux,ts,js,react,nextjs,flutter,vscode&perline=9" alt="Python, Django, FastAPI, Flask, PostgreSQL, Supabase, Docker, Git, GitHub, Linux, TypeScript, JavaScript, React, Next.js, Flutter and VS Code" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgres&perline=9" alt="Python, Django and PostgreSQL" />
+  </a>
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react&perline=9" alt="JavaScript and React" />
+  </a>
+</p>
+
+<h3 align="center">Dev Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&perline=9" alt="Git, GitHub, Docker, Linux and VS Code" />
   </a>
 </p>
 
