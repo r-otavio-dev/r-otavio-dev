@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,supabase,docker,git,github,linux,aws,ts,js,react,nextjs,flutter,vscode&perline=9" alt="Python, Django, FastAPI, Flask, PostgreSQL, Supabase, Docker, Git, GitHub, Linux, AWS, TypeScript, JavaScript, React, Next.js, Flutter and VS Code" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,supabase,docker,git,github,linux,ts,js,react,nextjs,flutter,vscode&perline=9" alt="Python, Django, FastAPI, Flask, PostgreSQL, Supabase, Docker, Git, GitHub, Linux, TypeScript, JavaScript, React, Next.js, Flutter and VS Code" />
   </a>
 </p>
 
@@ -28,6 +28,10 @@
     <img src="https://img.shields.io/badge/GitHub-r--otavio--dev-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </h3>
+
+<p align="center">
+  📧 <a href="mailto:rodrigo.otavio.silvestre@gmail.com">rodrigo.otavio.silvestre@gmail.com</a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6D28D9,50:A855F7,100:EC4899&section=footer&animation=fadeIn" width="100%" alt="Purple wave footer" />
 
